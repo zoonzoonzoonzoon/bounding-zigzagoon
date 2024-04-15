@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment=Bounding Zigzagoon
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=BoundingZigzagoon
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Name=BoundingZigzagoon
+X-KDE-PluginInfo-Author=https://www.instagram.com/coldweatherart/
+X-KDE-PluginInfo-Email=biz@pulvination.com
+X-KDE-PluginInfo-License=GPLv2
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-Plasma-MainScript=defaults
+
