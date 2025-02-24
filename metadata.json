@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "biz@pulvination.com",
+                "Name": "https://www.instagram.com/coldweatherart/"
+            }
+        ],
+        "Category": "",
+        "Description": "Bounding Zigzagoon",
+        "Id": "bounding-zigzagoon",
+        "License": "GPLv2",
+        "Name": "Bounding Zigzagoon",
+        "Website": "https://github.com/zoonzoonzoonzoon/bounding-zigzagoon"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
