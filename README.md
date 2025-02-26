@@ -6,5 +6,9 @@ Art by [@coldweatherart](https://www.instagram.com/coldweatherart/)
 ![Image](contents/previews/splash.png)
 
 ## Installation
-To install just clone this project into .local/share/plasma/look-and-feel
+To install, open your terminal,
+Run `cd ~/.local/share/plasma/look-and-feel` to navigate to your KDE customisation folder.
+Run `git clone https://github.com/zoonzoonzoonzoon/bounding-zigzagoon.git ~/.local/share/plasma/look-and-feel/bounding-zigzagoon/` to download this project into your KDE customisation folder
 
+## Store page
+https://www.pling.com/p/2127084/
